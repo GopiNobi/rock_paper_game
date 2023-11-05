@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    width: 340px;
+    height: fit-content;
+    margin: 150px;
+    border: 3px solid;
+    padding: 30px;
+    padding-left: 70px;
+    background-color: gainsboro;
+    border-radius: 30px;
+}
+#player{
+padding-bottom: 10px;
+font-size: 30px;
+/* font-family:; */
+}
+#computer{
+    padding-bottom: 10px;
+    font-size: 30px;
+    /* font-family:; */
+    }
+    #result{
+        padding-bottom: 10px;
+        font-size: 30px;
+        /* font-family:; */
+        /* padding-left: 27%; */
+        }  
+
+.btns{
+    padding: 3px;
+    margin-right: 5px;
+    background-color: aliceblue;
+    border-color: grey;
+}        
